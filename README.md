@@ -1,3 +1,3 @@
 Hello World
-![Black Star](/docs/assets/BlackStar2.png)
+![Black Star](/docs/BlackStar2.png)
 
